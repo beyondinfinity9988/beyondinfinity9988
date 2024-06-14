@@ -8,7 +8,7 @@
 - 👩‍🎓 Hey! I'm Vishal Mishra, a junior at Delhi Technological University, pursuing my major in Information Technology.
 - :octocat: I am a full-stack developer working with Node.js, Express.js, React.js, and JavaScript. Along with this I'm also highly interested in machine learning and have built quite a few projects on it related to social and mental health issues.
 - 👩‍💻 I am always open to collaborating on projects and innovative ideas.
-- ⚡ Reach out to me at **beyondinfinity9988@gmail,com**
+- ⚡ Reach out to me at **beyondinfinity9988@gmail.com**
 
 <br/> 
 
